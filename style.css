@@ -43,6 +43,12 @@ body {
 	}
 }
 
+#orel {
+	font-size: 30px;
+	color: #109551;
+	font-family: orbitron;
+}
+
 #banner {
 	position: absolute;
 	/* background: url(./assets/img/banner_civilisation.png) center / cover; */
